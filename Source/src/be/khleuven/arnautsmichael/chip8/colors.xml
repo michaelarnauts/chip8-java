@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <color name="Gray"          background="212435" foreground="D2D4E0" />
+    <color name="Black &amp; White" background="000000" foreground="FFFFFF" />
+    <color name="C64"           background="4040E0" foreground="A0A1FE" />
+    <color name="Green monitor" background="103810" foreground="10B010" />
+    <color name="Vista"         background="00658B" foreground="86DDFF" />
+</colors>
